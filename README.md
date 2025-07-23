@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 16 years old<br>- Python Student</p>
+<p align="left">- 16 years old<br>- Java Student</p>
 
 ###
 
@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
 
 ###
